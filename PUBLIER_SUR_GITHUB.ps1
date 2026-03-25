@@ -1,3 +1,4 @@
+
 # Script pour publier les modifications sur GitHub
 # À exécuter dans PowerShell
 
@@ -26,4 +27,6 @@ git push origin main
 Write-Host "`n=== Terminé ! ===" -ForegroundColor Green
 Write-Host "Vérifiez votre dépôt GitHub dans quelques secondes." -ForegroundColor Cyan
 
+
 Read-Host "`nAppuyez sur Entrée pour fermer"
+
