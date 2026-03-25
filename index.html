@@ -98,6 +98,93 @@
             margin-right: 10px;
             font-weight: bold;
         }
+        
+        /* Section Image */
+        .image-section {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 10px;
+            margin: 30px 0;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            text-align: center;
+        }
+        
+        .image-container {
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }
+        
+        .image-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+            transition: transform 0.3s ease;
+        }
+        
+        .image-container img:hover {
+            transform: scale(1.02);
+        }
+        
+        .image-title {
+            color: #1a472a;
+            font-size: 1.4em;
+            margin-top: 20px;
+            margin-bottom: 15px;
+            font-style: italic;
+            border-bottom: 2px solid #d4a574;
+            padding-bottom: 10px;
+            display: inline-block;
+        }
+        
+        .image-text {
+            text-align: left;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f9f9f9;
+            border-radius: 8px;
+            border-left: 4px solid #1a472a;
+        }
+        
+        .image-text p {
+            margin-bottom: 15px;
+            line-height: 1.8;
+        }
+        
+        /* Footer amélioré */
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: white;
+            margin-top: 50px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+        }
+        
+        .facebook-link {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 30px;
+            background: #1877f2;
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: bold;
+            transition: background 0.3s ease, transform 0.2s ease;
+        }
+        
+        .facebook-link:hover {
+            background: #166fe5;
+            transform: translateY(-2px);
+        }
+        
+        .facebook-link::before {
+            content: "📘 ";
+        }
     </style>
 </head>
 <body>
@@ -111,6 +198,19 @@
             <h2>À propos de ce blog</h2>
             <p>Bienvenue sur ce site dédié à l'histoire, la culture et les traditions des Premières Nations du Canada. 
             Explorez les différents aspects de ces peuples riches en sagesse, art et spiritualité.</p>
+        </div>
+
+        <!-- Section Image avec texte -->
+        <div class="image-section">
+            <div class="image-container">
+                <img src="texte et Images/j 1/images/campement-amerindien.jpg" alt="Campement amérindien au bord de la rivière" onerror="this.src='texte%20et%20Images/j%201/images/Gemini_Generated_Image_27fuhq27fuhq27fu.png'">
+            </div>
+            <h3 class="image-title">Un campement amérindien au bord de la rivière</h3>
+            <div class="image-text">
+                <p><strong>Ajoutez votre texte ici :</strong> Cette section est modifiable. Vous pouvez y décrire l'image, ajouter des informations historiques sur les campements amérindiens, ou tout autre contenu pertinent sur la vie traditionnelle des Premières Nations au contact de la nature.</p>
+                <p>Les peuples autochtones vivaient en harmonie avec leur environnement, construisant leurs campements près des sources d'eau, des lieux de pêche et de chasse, dans le respect des cycles de la nature.</p>
+            </div>
+            <!-- Pour ajouter du texte, modifiez le contenu entre les balises <div class="image-text"> -->
         </div>
 
         <h2 style="color: white; text-align: center; font-size: 2em; margin-bottom: 30px;">📚 Nos Articles</h2>
@@ -180,6 +280,13 @@
             </div>
 
             <div class="article-card">
+                <span class="number">10</span>
+                <h3>L'Astronomie et la Navigation</h3>
+                <p>Les connaissances célestes, les observatoires naturels et la navigation par les étoiles.</p>
+                <a href="10-astronomie-navigation.html">Lire l'article</a>
+            </div>
+
+            <div class="article-card">
                 <span class="number">★</span>
                 <h3>La Famille et les Premières Nations</h3>
                 <p>Les structures familiales, le respect des aînés et la transmission des savoirs.</p>
@@ -190,6 +297,10 @@
         <footer>
             <p>© 2026 - Les Premières Nations | Blog culturel</p>
             <p>Un hommage à la richesse et à la résilience des peuples autochtones</p>
+            
+            <a href="https://www.facebook.com/groups/1451283625021958" target="_blank" rel="noopener" class="facebook-link">
+                Rejoignez notre groupe Facebook
+            </a>
         </footer>
     </div>
 </body>
