@@ -174,16 +174,31 @@ Bonus: 3 questions en pied de page pour engagement
 ## 📂 Organisation des fichiers
 
 ```
-C:\projets\Premieres Nations\
+C:\projets\PremieresNations\
 ├── 01-spiritualite-nature-premieres-nations.html
 ├── ...
 ├── 31-clans-parente-premieres-nations.html
 ├── 32-epidemies-avant-cartier.html  ← NOUVEAU
+├── index.html                       ← PAGE D'ACCUEIL DU BLOG
 ├── CONTENT-TRACKER.md               ← CE FICHIER
 ├── images\
 ├── texte et Images\
 └── README.md
 ```
+
+## 🌐 Blog GitHub Pages
+
+**URL publique :** https://socrate83.github.io/Premieres-Nations/
+
+**Dépôt GitHub :** https://github.com/socrate83/Premieres-Nations
+
+**Branche de publication :** `main` (GitHub Pages activé)
+
+**Comment publier :**
+1. Créer/modifier les fichiers HTML dans `C:\projets\PremieresNations\`
+2. Mettre à jour `index.html` pour ajouter le lien vers le nouvel article
+3. Commit et push sur GitHub
+4. Le site se met à jour automatiquement (~1-2 minutes)
 
 ---
 
