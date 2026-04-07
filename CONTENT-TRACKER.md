@@ -86,29 +86,21 @@
 
 ---
 
-### 🔥 Sujet #34 : Les devoirs des grands-parents
-**Angle :** "Savez-vous que les aînés autochtones n'étaient pas des retraités mais des 'super-héros' ?"
+### ✅ Sujet #34 : Les devoirs des grands-parents (CRÉÉ)
+**Fichier :** `34-devoirs-grands-parents.html`
+**Date :** 07/04/2026
+**Statut :** Prêt à publier
+**Mots :** ~4500
+**Structure :** I-VI avec 7 "rôles box", tableau, citations, 15+ hashtags
 
-**Pourquoi ça va percer :**
-- Contre notre vision occidentale de la vieillesse
-- Sujet touchant, familial
-- Peu abordé (pas dans tes 32 articles)
+**Angle utilisé :** "Savez-vous que les aînés autochtones n'étaient pas des retraités mais des super-héros ?"
 
-**Accroche possible :**
-> "Chez les Premières Nations, on ne prenait pas sa retraite à 65 ans. C'est à cet âge que commençait le travail le plus important de toute une vie..."
-
-**Anecdotes :**
-- Les grands-parents détenaient les **droits de passage** sur les territoires de chasse
-- Sans leur permission, personne ne pouvait partir
-- Ils décidaient qui épousait qui (alliances)
-- Transmission des **noms sacrés** (cérémonie spéciale)
-- Les histoires étaient racontées **SEULEMENT en hiver** (quand les esprits étaient calmes)
-- Les aînés gardaient les **conflits** jusqu'à ce que les jeunes soient prêts
-
-**Sources potentielles :**
-- Relations des Jésuites (rôles des aînés)
-- Ethnographies huronnes et iroquoises
-- Ouvrages de Bruce Trigger sur les Hurons
+**Points forts de l'article :**
+- Les 7 pouvoirs des grands-parents (gardiens, architectes, juges...)
+- Section sur les Clan Mothers (pouvoir des femmes âgées)
+- Tableau : Responsabilités vs Conséquences
+- Lien avec les pensionnats (perte de transmission)
+- Sources : Relations des Jésuites, Bruce Trigger
 
 ---
 
