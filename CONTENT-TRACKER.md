@@ -6,6 +6,7 @@
 |---------|------|------------|-------------|--------|
 | #31 Clans et systèmes de parenté | 06/04/2026 | Facebook | 120+ réac/12h | Long (3500+ mots), académique |
 | #32 Épidémies avant Cartier | 07/04/2026 | À publier | - | Long (4000 mots), historique |
+| #33 Noms de lieux québécois | 07/04/2026 | À publier | - | Long (4000 mots), toponymie |
 
 **Recette identifiée :**
 - Structure détaillée (I, II, III avec sous-sections)
@@ -67,28 +68,21 @@
 
 ## 🎯 Sujets en mémoire (NON abordés)
 
-### 🔥 Sujet #33 : Les noms de lieux québécois décodés
-**Angle :** "Il y a bien longtemps, quel nom portaient Montréal, Québec et Ottawa avant les Français ?"
+### ✅ Sujet #33 : Les noms de lieux québécois décodés (CRÉÉ)
+**Fichier :** `33-noms-lieux-quebec-decodes.html`
+**Date :** 07/04/2026
+**Statut :** Prêt à publier
+**Mots :** ~4000
+**Structure :** I-VI avec tableaux, citations, 15+ hashtags
 
-**Pourquoi ça va percer :**
-- Accessible (lieux connus de tous)
-- Révélation quotidienne (on vit sur ces noms sans savoir)
-- Format visuel possible (carte)
+**Angle utilisé :** "Il y a bien longtemps, quel nom portaient Montréal, Québec et Ottawa avant les Français ?"
 
-**Accroche possible :**
-> "Montréal ne s'appelait pas Montréal. Québec n'était pas Québec. Derrière chaque nom français se cache un nom autochtone oublié qui raconte ce que ces lieux étaient vraiment..."
-
-**Anecdotes :**
-- **Hochelaga** = "beau lieu" ou "endroit où l'on marche" ?
-- **Stadaconé** = "endroit où le fleuve rétrécit" 
-- **Kebec** = "là où le fleuve se rétrécit" (les Français ont gardé le nom!)
-- **Ottawa** = "Algonquins" (nom donné par les Hurons)
-- **Tadoussac** = "têtes" (référence aux baleines?)
-
-**Sources potentielles :**
-- Journal de Cartier (1534) - mentions des noms originaux
-- Dictionnaire toponymique du Québec
-- Commission de toponymie du Québec
+**Points forts de l'article :**
+- Section sur Hochelaga/Montréal avec théories étymologiques
+- Kebec vs Stadaconé expliqué
+- Tableau comparatif des noms conservés
+- Lien avec le festival Osheaga (contemporain)
+- Sources : Cartier, Commission de toponymie du Québec
 
 ---
 
