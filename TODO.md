@@ -6,6 +6,19 @@
 - Quand une tâche est terminée, elle est déplacée dans "TERMINÉ"
 - Tu reçois une notification quand c'est fait
 
+## ⚠️ EXIGENCE NOUVELLE - Taille minimale
+
+**À PARTIR DE MAINTENANT : Tous les articles doivent faire entre 17-20 Ko minimum.**
+
+Les articles 25-30 étaient un peu courts (15-17 Ko). Les prochains doivent être plus complets :
+- Plus de témoignages
+- Plus d'anecdotes
+- Sections supplémentaires si nécessaire
+- Citations sourcées en fin d'article
+- Approfondir chaque aspect (pas de survol rapide)
+
+---
+
 ## Format des tâches
 ```
 - [ ] TYPE: DESCRIPTION
