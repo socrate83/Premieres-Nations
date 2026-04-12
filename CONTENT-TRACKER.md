@@ -17,7 +17,10 @@
 
 ---
 
-## ✅ Sujets déjà abordés (32 articles)
+## ✅ Sujets déjà abordés (44 articles)
+
+### Histoire du Québec
+- [x] **#44** - Trois-Rivières : la ville qui a sauvé le Canada
 
 ### Spiritualité & Croyances
 - [x] **#01** - Spiritualité et nature (animaux totems, 4 directions, roue médecine)
