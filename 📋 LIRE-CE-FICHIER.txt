@@ -1,0 +1,34 @@
+═══════════════════════════════════════════════════════════════
+   GUIDE RAPIDE - QUEL FICHIER FAIRE EN PREMIER ?
+═══════════════════════════════════════════════════════════════
+
+Tu as plusieurs fichiers .bat dans C:\projets\PremieresNations\
+
+╔═══════════════════════════════════════════════════════════════╗
+║  ÉTAPE 1 : SUPPRIMER LE DOSSIER EN DOUBLE (OneDrive)          ║
+╚═══════════════════════════════════════════════════════════════╝
+
+→ Double-clique sur :
+   SUPPRIMER-DOSSIER-DOUBLE.bat
+
+→ Ça supprime : C:\Users\socra\OneDrive\Documents\GitHub\Premieres-Nations
+→ Ça garde :    C:\projets\PremieresNations (le bon)
+
+╔═══════════════════════════════════════════════════════════════╗
+║  ÉTAPE 2 : PUBLIER SUR GITHUB                                 ║
+╚═══════════════════════════════════════════════════════════════╝
+
+→ Double-clique sur :
+   PUBLIER-GITHUB.bat
+
+→ Ça envoie tous les articles (35-50) sur Internet
+→ Le site sera mis à jour sur : https://socrate83.github.io/Premieres-Nations/
+
+═══════════════════════════════════════════════════════════════
+   ORDRE : 1️⃣ SUPPRIMER → 2️⃣ PUBLIER
+═══════════════════════════════════════════════════════════════
+
+Ne fais PAS les deux en même temps !
+Fais d'abord l'étape 1, attends que ça finisse, puis fais l'étape 2.
+
+═══════════════════════════════════════════════════════════════

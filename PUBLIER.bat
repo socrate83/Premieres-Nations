@@ -1,30 +1,30 @@
 @echo off
-chcp 65001 >nul
-echo ========================================
-echo  PUBLICATION SUR GITHUB
-echo ========================================
-echo.
+REM Script de publication GitHub pour PremieresNations
+REM Ce dossier est dans C:\projets\premieres nations (pas dans OneDrive)
 
-cd /d "%USERPROFILE%\OneDrive\Documents\GitHub\Premieres Nations"
+cd /d "C:\projets\PremieresNations"
 
-echo [1/4] Verification des fichiers...
-git status
+echo Verification du dossier...
+echo %cd%
 
 echo.
-echo [2/4] Ajout des fichiers...
+echo "Ajout des fichiers..."
 git add .
 
 echo.
-echo [3/4] Creation du commit...
-git commit -m "Ajout articles 4-10 et modifications index - %date% %time%"
+echo "Commit des modifications..."
+git commit -m "Ajout images historiques articles 35-50 - Serie complete avec sources historiques"
 
 echo.
-echo [4/4] Envoi sur GitHub...
+echo "Push vers GitHub..."
 git push origin main
 
 echo.
-echo ========================================
-echo  TERMINE !
-echo  Verifiez votre site dans 1 minute
-echo ========================================
+echo "========================================"
+echo "PUBLICATION TERMINEE !"
+echo "========================================"
+echo.
+echo "Le site sera mis a jour dans 1-2 minutes sur:"
+echo "https://socrate83.github.io/Premieres-Nations/"
+echo.
 pause
