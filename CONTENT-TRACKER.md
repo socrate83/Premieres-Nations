@@ -5,8 +5,9 @@
 | Article | Date | Plateforme | Performance | Format |
 |---------|------|------------|-------------|--------|
 | #31 Clans et systèmes de parenté | 06/04/2026 | Facebook | 120+ réac/12h | Long (3500+ mots), académique |
-| #32 Épidémies avant Cartier | 07/04/2026 | À publier | - | Long (4000 mots), historique |
-| #33 Noms de lieux québécois | 07/04/2026 | À publier | - | Long (4000 mots), toponymie |
+| #32 Épidémies avant Cartier | 07/04/2026 | ✅ Publié avec images | - | Long (4000 mots), historique |
+| #33 Noms de lieux québécois | 07/04/2026 | ✅ Publié avec images | - | Long (4000 mots), toponymie |
+| #34 Devoirs des grands-parents | 07/04/2026 | ✅ Publié avec images | - | Long (4500 mots), société |
 
 **Recette identifiée :**
 - Structure détaillée (I, II, III avec sous-sections)
